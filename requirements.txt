@@ -1,0 +1,8 @@
+notebook
+numpy
+pandas
+matplotlib
+seaborn
+requests
+networkx
+plotly
